@@ -1,0 +1,58 @@
+{
+  "rsvpEntries": [
+    [
+      "1-1",
+      {
+        "eventId": "1",
+        "player": {
+          "id": "1",
+          "name": "John Doe",
+          "email": "john@example.com"
+        },
+        "status": "Yes",
+        "updatedAt": "2025-04-12T21:54:45.100Z"
+      }
+    ],
+    [
+      "1-2",
+      {
+        "eventId": "1",
+        "player": {
+          "id": "2",
+          "name": "Jane Smith",
+          "email": "jane@example.com"
+        },
+        "status": "No",
+        "updatedAt": "2025-04-12T21:54:45.100Z"
+      }
+    ],
+    [
+      "1-3",
+      {
+        "eventId": "1",
+        "player": {
+          "id": "3",
+          "name": "Bob Johnson",
+          "email": "bob@example.com"
+        },
+        "status": "Maybe",
+        "updatedAt": "2025-04-12T21:54:45.101Z"
+      }
+    ]
+  ],
+  "events": [
+    [
+      "1",
+      {
+        "id": "1",
+        "name": "Test Event",
+        "description": "A test event",
+        "date": "2025-04-13T21:54:45.084Z",
+        "location": "Test Location",
+        "maxPlayers": 10
+      }
+    ]
+  ],
+  "waitlist": [],
+  "reminders": []
+}

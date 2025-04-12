@@ -1,0 +1,20 @@
+[
+  {
+    "player": {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    "status": "Yes",
+    "updatedAt": "2025-04-11T23:43:18.752Z"
+  },
+  {
+    "player": {
+      "id": "3",
+      "name": "Bob Johnson",
+      "email": "bob@example.com"
+    },
+    "status": "Maybe",
+    "updatedAt": "2025-04-11T23:43:18.759Z"
+  }
+]
