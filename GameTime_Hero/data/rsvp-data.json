@@ -10,7 +10,7 @@
           "email": "john@example.com"
         },
         "status": "Yes",
-        "updatedAt": "2025-04-12T21:54:45.100Z"
+        "updatedAt": "2025-04-12T22:16:42.415Z"
       }
     ],
     [
@@ -23,7 +23,7 @@
           "email": "jane@example.com"
         },
         "status": "No",
-        "updatedAt": "2025-04-12T21:54:45.100Z"
+        "updatedAt": "2025-04-12T22:16:42.415Z"
       }
     ],
     [
@@ -36,7 +36,7 @@
           "email": "bob@example.com"
         },
         "status": "Maybe",
-        "updatedAt": "2025-04-12T21:54:45.101Z"
+        "updatedAt": "2025-04-12T22:16:42.415Z"
       }
     ]
   ],
@@ -47,7 +47,7 @@
         "id": "1",
         "name": "Test Event",
         "description": "A test event",
-        "date": "2025-04-13T21:54:45.084Z",
+        "date": "2025-04-13T22:16:42.408Z",
         "location": "Test Location",
         "maxPlayers": 10
       }
